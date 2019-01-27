@@ -16,7 +16,7 @@ tools:context="com.sunny.smartwebview.MainActivity" >
         android:layout_alignParentLeft="true"
         android:layout_alignParentBottom="true"
         android:src="@drawable/ic_my_icon"
-        android:layout_margin="14dp"
+        android:layout_margin="16dp"
         android:backgroundTint="@color/orange"
         />
 
